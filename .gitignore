@@ -1,0 +1,5 @@
+rom/build/
+training/data/
+training/__pycache__/
+*.pyc
+.DS_Store
